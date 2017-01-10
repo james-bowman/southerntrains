@@ -53,7 +53,7 @@ clean.wikipedia.data <- function(station.data) {
   return (cleansed)
 }
 
-stations.raw <- load.csv("/Users/jbowman/go/src/github.com/james-bowman/wikipediascraper/stations.csv")
+stations.raw <- load.csv("stations.csv")
 stations <- clean.wikipedia.data(stations.raw)
 
 #prices <- load.csv("/Users/jbowman/R/southerntrains/UK-HPI-full-file-2016-10.csv")
