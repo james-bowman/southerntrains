@@ -1,0 +1,207 @@
+"Name","Location","GridReference","LocalAuthority","ManagedBy","Code","DfTCategory","PlatformCount","IsAccessible","FareZone"
+"Aldrington","Hove","TQ281056","Brighton & Hove","Southern","AGT","F1",2,false,0
+"Amberley","Amberley","TQ026118","Horsham","Southern","AMY","F2",2,false,0
+"Anerley","","","London Borough of Bromley","London Overground","ANZ","E",2,true,4
+"Angmering","East Preston (Littlehampton)","TQ065029","Arun","Southern","ANG","E",2,false,0
+"Appledore","Appledore","TQ975297","Ashford","Southern","APD","F2",2,false,0
+"Arundel","Arundel","TQ024063","Arun","Southern","ARU","E",0,false,0
+"Ashford International","Ashford","TR011421","Borough of Ashford","Southeastern","AFK","B",6,false,0
+"Ashtead","Ashtead","TQ180589","District of Mole Valley","Southern","AHD","E",2,false,0
+"Ashurst","Ashurst, Kent","TQ507387","Borough of Tunbridge Wells","Southern","AHS","F1",2,false,0
+"Balcombe","Balcombe","TQ306301","District of Mid Sussex","Southern","BAB","E",2,false,0
+"Balham","","","Wandsworth","Southern
+London Underground","BAL","C2",0,false,3
+"Banstead","","","Borough of Reigate and Banstead","Southern","BAD","F1",1,false,6
+"Barnham","Barnham","SU958043","Arun, West Sussex","Southern","BAA","D",3,false,0
+"Battersea Park","","","London Borough of Wandsworth","Southern","BAK","D",0,false,2
+"Beckenham Junction","","","London Borough of Bromley","Southeastern","BKJ","C2",0,true,4
+"Bedhampton","Bedhampton","SU707065","Havant","South West Trains","BDH","E",2,false,0
+"Belmont","","","London Borough of Sutton","Southern","BLM","F1",1,true,5
+"Berkhamsted","Berkhamsted","SP993081","Borough of Dacorum","London Midland","BKM","C2",4,false,0
+"Berwick (Sussex)","Berwick Station","TQ525067","Wealden, East Sussex","Southern","BRK","E",2,false,0
+"Bexhill","Bexhill-on-Sea","TQ743075","Rother","Southern","BEX","E",2,false,0
+"Billingshurst","Billingshurst","TQ088251","Horsham, West Sussex","Southern","BIG","E",2,false,0
+"Birkbeck","","","London Borough of Bromley","Southern","BIK","F2",0,false,4
+"Bishopstone","Seaford","TV469998","Lewes","Southern","BIP","F2",1,false,0
+"Bitterne","Bitterne","SU438133","Southampton","South West Trains","BTE","F2",2,false,0
+"Bletchley","West Bletchley","SP868337","Borough of Milton Keynes","London Midland","BLY","C2",6,false,0
+"Bognor Regis","Bognor Regis","SZ934994","Arun, West Sussex","Southern","BOG","D",4,false,0
+"Bookham","Little Bookham","TQ127556","District of Mole Valley","South West Trains","BKA","E",2,false,0
+"Bosham","Bosham","SU812054","Chichester","Southern","BOH","E",2,false,0
+"Box Hill and Westhumble","Westhumble","TQ167518","District of Mole Valley","Southern","BXW","F2",2,false,0
+"Brighton","Brighton","TQ310049","City of Brighton and Hove","Southern","BTN","B",8,false,0
+"Brockley","","","Lewisham","London Overground","BCY","D",2,true,2
+"Burgess Hill","Burgess Hill","TQ316187","District of Mid Sussex","Southern","BUG","C2",2,false,0
+"Buxted","Buxted","TQ494233","District of Wealden","Southern","BXD","E",1,false,0
+"Carshalton Beeches","","TQ275636","London Borough of Sutton","Southern","CSB","E",2,false,5
+"Carshalton","","","London Borough of Sutton","Southern","CSH","D",2,false,5
+"Caterham","","","District of Tandridge","Southern","CAT","D",2,true,6
+"Cheam","","","London Borough of Sutton","Southern","CHE","D",2,true,5
+"Chichester","Chichester","SU858043","Chichester","Southern","CCH","C2",2,false,0
+"Chipstead","","","Borough of Reigate and Banstead","Southern","CHP","E",2,false,6
+"Christ's Hospital","Christ's Hospital","TQ14752903","Horsham, West Sussex","Southern","CHH","E",0,false,0
+"Clandon","West Clandon","TQ045527","Guildford","South West Trains","CLA","E",2,false,0
+"Clapham Junction","","","London Borough of Wandsworth","South West Trains","CLJ","B",17,true,2
+"Collington","Bexhill-on-Sea","TQ730072","Rother","Southern","CLL","F1",2,false,0
+"Cooden Beach","Cooden Beach, Bexhill-on-Sea","TQ709065","Rother, East Sussex","Southern","COB","E",2,false,0
+"Cooksbridge","Cooksbridge","TQ400134","Lewes","Southern","CBR","F2",2,false,0
+"Cosham","Cosham","SU657051","Portsmouth","South West Trains","CSA","D",2,false,0
+"Coulsdon South","","","London Borough of Croydon","Southern","CDS","D",2,false,6
+"Coulsdon Town","","","London Borough of Croydon","Southern","CDN","E",2,false,6
+"Cowden","Cowden","TQ476417","District of Sevenoaks","Southern","CWN","F2",1,false,0
+"Crawley","Crawley","TQ270363","Crawley, West Sussex","Southern","CRW","D",2,false,0
+"Crowborough","Crowborough","TQ534297","District of Wealden","Southern","COH","E",2,false,0
+"Crystal Palace","","","London Borough of Bromley","London Overground","CYP","D",6,true,0
+"Denmark Hill","","","London Borough of Southwark","Thameslink","DMK","D",4,true,2
+"Doleham","Doleham","TQ835164","Rother","Southern","DLH","F2",1,false,0
+"Dorking","Dorking","TQ170504","District of Mole Valley","Southern","DKG","C1",3,false,0
+"Dormans","Dormansland and Dormans Park","TQ396415","District of Tandridge","Southern","DMS","E",2,false,0
+"Durrington-on-Sea","Durrington","TQ120031","Worthing, West Sussex","Southern","DUR","E",2,false,0
+"Earlswood (Surrey)","Earlswood","TQ278491","Reigate and Banstead","Southern","ELD","E",2,false,0
+"East Croydon","","","London Borough of Croydon","GTR Southern
+Transport for London (tram platforms)","ECR","B",0,true,5
+"East Dulwich","","","London Borough of Southwark","Southern","EDW","E",2,false,2
+"East Grinstead High Level","East Grinstead","TQ388383","District of Mid Sussex","Southern","EGR","C1",2,false,0
+"East Worthing","Worthing","TQ159037","Worthing","Southern","EWR","F1",2,false,0
+"Eastbourne","Eastbourne","TV609991","Eastbourne","Southern","EBN","C1",3,false,0
+"Eastleigh","Eastleigh","SU457190","Borough of Eastleigh","South West Trains","ESL","C1",3,false,0
+"Edenbridge","Edenbridge","TQ440474","Sevenoaks","Southern","EBR","F1",2,false,0
+"Edenbridge Town","Edenbridge","TQ445465","District of Sevenoaks","Southern","EBT","E",2,false,0
+"Effingham Junction","Effingham","TQ102558","Borough of Guildford","South West Trains","EFF","D",2,false,0
+"Emsworth","Emsworth","SU748063","Havant","Southern","EMS","E",2,false,0
+"Epsom Downs","","","Borough of Reigate and Banstead","Southern","EPD","F1",1,true,6
+"Epsom","Epsom","TQ206609","Borough of Epsom and Ewell","Southern","EPS","C1",4,false,0
+"Eridge","Eridge","TQ542345","District of Wealden","Southern","ERI","E",3,false,0
+"Ewell East","","","Borough of Epsom and Ewell","Southern","EWE","E",2,true,6
+"Falmer","Falmer","TQ347086","Brighton and Hove","Southern","FMR","E",2,false,0
+"Fareham","Fareham","SU569063","Fareham (district)","South West Trains","FRM","C2",3,false,0
+"Faygate","Faygate","TQ217343","Horsham","Southern","FGT","F2",2,false,0
+"Fishbourne","Fishbourne","SU835050","Chichester","Southern","FSB","F1",2,false,0
+"Fishersgate","Southwick","TQ255054","Adur","Southern","FSG","F1",2,false,0
+"Ford","Ford (Arundel)","TQ002042","Arun, West Sussex","Southern","FOD","E",0,false,0
+"Forest Hill","","","London Borough of Lewisham","London Overground","FOH","C2",2,true,3
+"Fratton","Fratton","SU653000","Portsmouth","South West Trains","FTN","C2",3,false,0
+"Gatwick Airport","London Gatwick Airport","TQ287413","Borough of Crawley","Southern","GTW","B",0,false,0
+"Gipsy Hill","","","London Borough of Lambeth","Southern","GIP","E",2,false,3
+"Glynde","Glynde","TQ458086","Lewes","Southern","GLY","F1",2,false,0
+"Godstone","Godstone","TQ362483","Tandridge","Southern","GDN","F2",2,false,0
+"Goring by Sea","Goring-by-Sea","TQ104031","Worthing, West Sussex","Southern","GBS","E",2,false,0
+"Guildford","Guildford","SU991496","Borough of Guildford","South West Trains","GLD","B",0,false,0
+"Hackbridge","","","London Borough of Sutton","Southern","HCB","E",2,false,4
+"Ham Street","Hamstreet","TR000337","Ashford","Southern","HMT","E",2,false,0
+"Hampden Park","Hampden Park","TQ607021","Eastbourne","Southern","HMD","E",2,false,0
+"Harrow & Wealdstone","","","London Borough of Harrow","London Underground[1]","HRW","C1",6,true,5
+"Hassocks","Hassocks","TQ304155","District of Mid Sussex","Southern","HSK","C2",2,false,0
+"Hastings","Hastings","TQ814097","Hastings, East Sussex","Southeastern","HGS","C1",4,false,0
+"Havant","Havant","SU717065","Havant","South West Trains","HAV","C2",2,false,0
+"Haywards Heath","Haywards Heath","TQ330245","District of Mid Sussex","Southern","HHE","B",4,false,0
+"Hemel Hempstead","Hemel Hempstead","TL042059","Borough of Dacorum","London Midland","HML","C2",4,false,0
+"Hever","Hever","TQ465445","District of Sevenoaks","Southern","HEV","F2",2,false,0
+"Hilsea","Hilsea","SU663035","Portsmouth","South West Trains","HLS","E",2,false,0
+"Holmwood","Beare Green","TQ174437","District of Mole Valley","Southern","HLM","F1",2,false,0
+"Honor Oak Park","","","London Borough of Lewisham","London Overground","HPA","D",2,true,3
+"Horley","Horley","TQ286426","Reigate and Banstead","Southern","HOR","D",4,false,0
+"Horsham","Horsham","TQ178309","District of Horsham","Southern","HRH","C2",4,false,0
+"Horsley","East Horsley","TQ092545","Guildford","South West Trains","HSY","D",2,false,0
+"Hove","Hove","TQ289055","Brighton & Hove","Southern","HOV","C2",3,false,0
+"Hurst Green","Hurst Green","TQ399513","District of Tandridge","Southern","HUR","E",2,false,0
+"Ifield","Ifield","TQ250366","Crawley, West Sussex","Southern","IFI","E",2,false,0
+"Kenley","","","London Borough of Croydon","Southern","KLY","E",2,true,6
+"Kensington (Olympia)","","","Royal Borough of Kensington and Chelsea","London Overground","KPA","C2",3,true,2
+"Kingswood","","","Borough of Reigate and Banstead","Southern","KND","E",2,true,6
+"Lancing","Lancing","TQ181043","Adur","Southern","LAC","D",2,false,0
+"Leatherhead","Leatherhead","TQ163568","District of Mole Valley","Southern","LHD","C2",2,false,0
+"Leigh (Kent)","Leigh","TQ546461","Sevenoaks","Southern","LIH","F1",2,false,0
+"Leighton Buzzard","Linslade","SP910250","District of Central Bedfordshire","London Midland","LBZ","C2",4,false,0
+"Lewes","Lewes","TQ416098","Lewes","Southern","LWS","C2",5,false,0
+"Lingfield","Lingfield","TQ394438","District of Tandridge","Southern","LFD","E",2,false,0
+"Littlehampton","Littlehampton Town Centre","TQ025021","Arun","Southern","LIT","D",4,false,0
+"Littlehaven","Littlehaven, Horsham","TQ186324","Horsham, West Sussex","Southern","LVN","E",2,false,0
+"London Bridge","","","London Borough of Southwark","London Underground","LBG","A",4,true,1
+"London Road (Brighton)","Brighton","TQ313057","Brighton & Hove","Southern","LRB","E",2,false,0
+"London Road (Guildford)","Guildford","TQ002500","Guildford","South West Trains","LRD","D",2,false,0
+"Victoria","","","City of Westminster","London Underground","VIC","A",4,true,1
+"Merstham","Merstham","TQ291532","Reigate and Banstead","Southern","MHM","D",2,false,0
+"Milton Keynes Central","Central Milton Keynes","SP841380","Borough of Milton Keynes","London Midland","MKC","B",0,false,0
+"Mitcham Eastfields","","","London Borough of Merton","Southern","MTC","E",2,true,3
+"Mitcham Junction","","","London Borough of Merton","Southern","MIJ","E",4,true,4
+"Moulsecoomb","Moulsecoomb","TQ325069","Brighton and Hove","Southern","MCB","E",2,false,0
+"Newhaven Harbour","Newhaven","TQ449009","Lewes","Southern","NVH","F1",2,false,0
+"Newhaven Town","Newhaven","TQ449014","Lewes (district)","Southern","NVN","E",2,false,0
+"Norbury","","","London Borough of Croydon","Southern","NRB","C2",0,true,3
+"Normans Bay","Normans Bay","TQ683056","Rother","Southern","NSB","F2",2,false,0
+"North Dulwich","","","London Borough of Southwark","Southern","NDL","E",2,false,0
+"Norwood Junction","","","London Borough of Croydon","London Overground","NWD","C2",5,true,4
+"Nutbourne","Nutbourne","SU787057","Chichester","Southern","NUT","F2",2,false,0
+"Nutfield","Nutfield","TQ304491","Tandridge","Southern","NUF","F2",2,false,0
+"Ockley","Ockley","TQ164404","District of Mole Valley","Southern","OLY","F2",2,false,0
+"Ore","Ore Valley, Hastings","TQ824106","Hastings, East Sussex","Southern","ORE","F2",2,false,0
+"Oxted","Oxted","TQ393528","District of Tandridge","Southern","OXT","C2",3,false,0
+"Penge West","","","London Borough of Bromley","London Overground","PNW","E",2,true,4
+"Penshurst","Penshurst","TQ519464","Sevenoaks","Southern","PHR","F1",2,false,0
+"Pevensey and Westham","Westham","TQ638043","Wealden","Southern","PEV","E",2,false,0
+"Pevensey Bay","Pevensey","TQ651046","Wealden","Southern","PEB","F2",2,false,0
+"Plumpton","Plumpton Green","TQ364161","Lewes (district)","Southern","PMP","E",2,false,0
+"Polegate","Polegate","TQ582048","Wealden","Southern","PLG","D",2,false,0
+"Portchester","Portchester","SU617058","Fareham","South West Trains","PTC","E",2,false,0
+"Portslade","Portslade","TQ264055","Brighton & Hove","Southern","PLD","D",2,false,0
+"Portsmouth & Southsea","Portsmouth","SU641002","Portsmouth","South West Trains","PMS","C1",4,false,0
+"Portsmouth Harbour","Portsmouth","SU629000","Portsmouth","South West Trains","PMH","C1",0,false,0
+"Preston Park","Preston Village","TQ299067","City of Brighton and Hove","Southern","PRP","D",3,false,0
+"Pulborough","Pulborough","TQ042186","Horsham, West Sussex","Southern","PUL","D",2,false,0
+"Purley Oaks","","","London Borough of Croydon","Southern","PUO","D",0,false,6
+"Purley","","","London Borough of Croydon","GTR Southern","PUR","C2",6,true,6
+"Queens Road Peckham","","","London Borough of Southwark","Southern","QRP","E",2,true,2
+"Redhill","Redhill","TQ281506","Borough of Reigate and Banstead","Southern","RDH","C1",3,false,0
+"Reedham (Surrey)","","TQ309606","London Borough of Croydon","Southern","RHM","E",2,false,6
+"Reigate","Reigate","TQ254507","Reigate and Banstead","Southern","REI","D",2,false,0
+"Riddlesdown","","","London Borough of Croydon","Southern","RDD","E",2,false,6
+"Rye","Rye","TQ918205","Rother","Southern","RYE","E",2,false,0
+"St Denys","St. Denys","SU431138","City of Southampton","South West Trains","SDN","E",4,false,0
+"St Leonards Warrior Square","St Leonards on Sea","TQ803093","Hastings, East Sussex","Southeastern","SLQ","D",2,false,0
+"Salfords","Salfords","TQ285462","Reigate and Banstead","Southern","SAF","E",2,false,0
+"Sanderstead","","","London Borough of Croydon","Southern","SNR","D",2,false,6
+"Seaford","Seaford","TV481991","Lewes (district)","Southern","SEF","D",1,false,0
+"Selhurst","","","London Borough of Croydon","GTR Southern","SRS","D",4,false,4
+"Shoreham-by-Sea","Shoreham-by-Sea","TQ218052","Adur, West Sussex","Southern","SSE","D",2,false,0
+"South Bermondsey","","","Southwark","Southern","SBM","E",0,false,2
+"South Croydon","","","London Borough of Croydon","Southern","SCY","D",0,false,5
+"Southampton Central","Southampton City Centre","SU412121","City of Southampton","South West Trains","SOU","B",5,false,0
+"Southbourne","Southbourne","SU769059","Chichester","Southern","SOB","E",2,false,0
+"Southease","Southease","TQ430054","Lewes","Southern","SEE","F2",2,false,0
+"Southwick","Southwick, West Sussex","TQ242051","Adur","Southern","SWK","E",2,false,0
+"Streatham Common","","","London Borough of Lambeth","Southern","SRC","C2",4,true,3
+"Streatham Hill","","","London Borough of Lambeth","Southern","SRH","C2",2,false,3
+"Streatham","","","London Borough of Lambeth","Southern","STE","D",2,false,3
+"Sutton","","","London Borough of Sutton","Southern","SUO","C2",4,true,5
+"Swanwick","Park Gate","SU517087","Fareham","South West Trains","SNW","E",2,false,0
+"Sydenham (London)","","","London Borough of Lewisham","London Overground","SYD","D",2,true,3
+"Tadworth","","","Borough of Reigate and Banstead","Southern","TAD","E",2,false,6
+"Tattenham Corner","","","Borough of Reigate and Banstead","Southern","TAT","E",3,true,6
+"Thornton Heath","","","London Borough of Croydon","Southern","TTH","C2",0,false,4
+"Three Bridges","Three Bridges","TQ288369","Borough of Crawley","Southern","TBD","C1",5,false,0
+"Three Oaks","Three Oaks","TQ838144","Rother","Southern","TOK","F2",1,false,0
+"Tonbridge","Tonbridge","TQ586460","Borough of Tonbridge and Malling","Southeastern","TON","B",4,false,0
+"Tring","Tring","SP950122","Borough of Dacorum","London Midland","TRI","C2",5,false,0
+"Tulse Hill","","","London Borough of Lambeth","Southern","TUH","D",4,false,3
+"Uckfield","Uckfield","TQ473209","District of Wealden","Southern","UCK","E",1,false,0
+"Upper Warlingham","","","District of Tandridge","Southern","UWL","D",2,false,6
+"Waddon","","","London Borough of Croydon","Southern","WDO","D",2,false,5
+"Wallington","","","London Borough of Sutton","Southern","WLT","C2",2,true,5
+"Wandsworth Common","","","Wandsworth","Southern","WSW","D",0,false,3
+"Warblington","Warblington","SU727065","Havant","Southern","WBL","E",2,false,0
+"Warnham","Warnham","TQ170339","District of Horsham","Southern","WNH","F2",2,false,0
+"Watford Junction","","","Borough of Watford","London Midland","WFJ","B",10,true,0
+"Wembley Central","","","London Borough of Brent","London Underground[1]","WMB","C2",0,true,4
+"West Brompton","","","Royal Borough of Kensington and Chelsea","London Underground[1]","WBP","E",4,true,2
+"West Croydon","","","London Borough of Croydon","London Overground","WCY","C2",0,true,5
+"West Norwood","","","London Borough of Lambeth","Southern","WNW","D",2,true,3
+"West Worthing","Worthing","TQ132033","Worthing, West Sussex","Southern","WWO","D",2,false,0
+"Whyteleafe","","","District of Tandridge","Southern","WHY","E",2,true,6
+"Whyteleafe South","","","District of Tandridge","Southern","WHS","E",2,true,6
+"Wimbledon","","","London Borough of Merton","South West Trains","WIM","B",11,false,3
+"Winchelsea","Winchelsea","TQ899183","Rother","Southern","WSE","F2",1,false,0
+"Wivelsfield","Burgess Hill","TQ320200","District of Mid Sussex","Southern","WVF","E",2,false,0
+"Woldingham","Woldingham","TQ359563","District of Tandridge","Southern","WOH","E",2,false,0
+"Woodmansterne","","","London Borough of Croydon","Southern","WME","E",2,false,6
+"Worthing","Worthing","TQ145033","Worthing, West Sussex","Southern","WRH","C[1]",3,false,0
